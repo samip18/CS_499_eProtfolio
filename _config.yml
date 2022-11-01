@@ -1,4 +1,4 @@
-title: My First Github Pages
+title: My First Github Pages with from config.yml
 baseurl: "CS_499_eProtfolio"
 
 markdown: kramdown
