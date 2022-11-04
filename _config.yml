@@ -1,5 +1,5 @@
 #title: My First Github Pages with from config.yml
-baseurl: "CS_499_eProtfolio"
+baseurl: "CS_499_ePortfolio"
 
 markdown: kramdown
 #theme: minima
